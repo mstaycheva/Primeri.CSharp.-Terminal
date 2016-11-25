@@ -1,0 +1,6 @@
+C:\Users\c++\primeri\Hello\Hello\bin\Release\Hello.exe.config
+C:\Users\c++\primeri\Hello\Hello\obj\Release\Hello.csprojResolveAssemblyReference.cache
+C:\Users\c++\primeri\Hello\Hello\bin\Release\Hello.exe
+C:\Users\c++\primeri\Hello\Hello\bin\Release\Hello.pdb
+C:\Users\c++\primeri\Hello\Hello\obj\Release\Hello.exe
+C:\Users\c++\primeri\Hello\Hello\obj\Release\Hello.pdb
